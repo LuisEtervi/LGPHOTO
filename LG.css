@@ -1,0 +1,174 @@
+*{font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
+*{background-color: black;}
+
+.LOGO{
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 0px;
+
+}
+.menuCSS3 ul {
+    display:-webkit-flex ;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-size: 16px;
+}
+.menuCSS3 a {
+    display: block;
+    padding: 1em;
+    background-color:rgb(0, 0, 0);
+    text-decoration: none;
+    color: white;
+    padding-right: 51px;
+    border-right: 100px solid rgb(0, 0, 0);
+}
+.menuCSS3 a:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.menuCSS3 ul li ul {
+    display: none;
+}
+.menuCSS3 ul li a:hover + ul, .menuCSS3 ul li ul:hover {
+    display: block;
+}
+
+.menuCSS3{position: absolute; left: 250px;
+position: absolute; top: 20px;
+}
+.imagengrande{
+    opacity:0.5;
+}
+.LGNAME{
+    font-size: 65px;
+    position: absolute; top:220px;
+    position: absolute; margin-left: 70px;
+    color: white;
+}
+.LGNAME1{
+    font-size: 28px;
+    color: white;
+    text-align: center;
+    position: relative; top: 100px;
+}
+.imagengrande1{
+position: relative; top: 200px;
+opacity: 0.5;
+position: absolute; top: 150px;
+}
+.LGNAME2{
+    font-size: 28px;
+    color: white;
+    text-align: center;
+    position: relative; top: 450px
+}
+.imagengrande2{
+    position: relative; top: 300px;
+    opacity: 0.5;
+    position: absolute; top: 700px;
+}
+.LGNAMEqs{
+    font-size: 65px;
+    position: absolute; top:220px;
+    position: absolute; margin-left: 315px;
+    color: white;
+    text-align: center;
+}
+.LGNAMEqs1{
+    font-size: 28px;
+    color: white;
+    text-align: left;
+    position: relative; margin-left:20px;
+    position: relative; top: 300px;
+}
+.LGNAMEqs2{
+    font-size: 28px;
+    color: white;
+    text-align: right;
+    position: relative; margin-right:20px;
+    position: relative; top: 340px;
+    text-align: right;
+}
+.LGNAMEqs3{
+        font-size: 28px;
+        color: white;
+        text-align: left;
+        position: relative; margin-left:20px;
+        position: relative; top: 420px;
+        text-align: justify;
+}
+.LGNAMEpy{
+    font-size: 65px;
+    position: absolute; top:170px;
+    position: absolute; margin-left:500px;
+    color: white;
+    text-align: center;
+}
+.foto1{
+left: 100px;
+position: relative; margin-top: 250px;
+}
+.foto2{
+left: 490px;
+position: relative; bottom: 415px;
+    }
+.foto3{
+left: 880px;
+position: relative; bottom: 835px;
+}
+.foto4{
+    left: 100px;
+    position: relative; bottom: 780px;
+}
+.foto5{
+    left: 500px;
+    position: relative; bottom: 1200px;
+}
+.foto6{
+    left: 880px;
+    position: relative; bottom: 1650px;
+}
+.LGNAMEcr{
+    font-size: 65px;
+    position: absolute; top:170px;
+    position: absolute; margin-left:550px;
+    color: white;
+    text-align: center;
+}
+.LGNAMEcr1{
+    font-size: 28px;
+    color: white;
+    text-align: left;
+    position: relative; margin-left:20px;
+    position: relative; top: 50px;
+}
+    .imagengrande12{
+        position: relative; top: 200px;
+        opacity: 0.5;
+        position: absolute; top: 800px;
+    }
+.regis{
+    font-size: 65px;
+    position: absolute; top:1200px;
+    position: absolute; margin-left: 420px;
+    color: white;
+    text-align: center;
+}
+.registrar{
+    position: relative; top: 650px;
+}
+.LGNAMEconc{
+    font-size: 65px;
+    position: absolute; top:170px;
+    position: absolute; margin-left:530px;
+    color: white;
+    text-align: center;
+}
+.infolg{
+    font-size: 28px;
+    color: white;
+    text-align: center;
+    position: relative; top: 200px
+}
